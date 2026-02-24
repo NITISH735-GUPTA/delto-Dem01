@@ -1,2 +1,2 @@
 # delto-Dem01
-This is for Github Class
+This is for Github Class.
